@@ -9,6 +9,4 @@ add text via browser
 add local text
 
 add text in new_branch branch
-
-
-add conflict
+text in browser
