@@ -12,5 +12,5 @@ add text in new_branch branch
 
 
 
-add another conflict
+add another  local conflict
 
